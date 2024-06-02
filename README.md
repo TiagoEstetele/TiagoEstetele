@@ -2,7 +2,8 @@
   
 
 - 🔭 I’m currently working on [OKN Group](https://www.okngroup.com.br/)  
-  
+
+- 🌐 Websites developed by me: [Seedz](https://seedz.ag/), [Doc Security](https://dsec.com.br/), [AND,ALL](https://andall.ag/)
 
 - 🌱 I’m currently learning Next.js and Node.js  
   
@@ -10,7 +11,9 @@
 - ❓ Ask me about anything related to Front-end and related technologies  
   
 
-- ⚡ Fun fact: I have a degree in Systems Analysis and development  
+- ⚡ Fun fact: I have a degree in Systems Analysis and development
+
+
   
 
 <br/>  
