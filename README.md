@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OKN Group](https://www.okngroup.com.br/)  
 
-- 🌐 Websites developed by me: [Seedz](https://seedz.ag/), [Doc Security](https://dsec.com.br/), [AND,ALL](https://andall.ag/), [Split Academia](https://www.splitacademia.com.br/)
+- 🌐 Websites developed by me: [OKN Group](https://okn.com.br/), [Seedz](https://seedz.ag/), [Doc Security](https://dsec.com.br/), [AND,ALL](https://andall.ag/), [Split Academia](https://www.splitacademia.com.br/)
 
 - 🌱 I’m currently learning Next.js and Node.js  
   
