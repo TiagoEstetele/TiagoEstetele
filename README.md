@@ -1,9 +1,9 @@
 ### <div align="center">I'm Tiago Estetele, a web developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on [OKN Group](https://www.okngroup.com.br/)  
+- 🔭 I’m currently working on [Polo Trial](https://polotrial.com/)  
 
-- 🌐 Websites developed by me: [OKN Group](https://okn.com.br/), [Seedz](https://seedz.ag/), [Doc Security](https://dsec.com.br/), [AND,ALL](https://andall.ag/), [Split Academia](https://www.splitacademia.com.br/)
+- 🌐 Featured sites developed by me: [OKN Group](https://okn.com.br/), [Seedz](https://seedz.ag/), [AND,ALL](https://andall.ag/), [Doc Security](https://dsec.com.br/)
 
 - 🌱 I’m currently learning Next.js and Node.js  
   
