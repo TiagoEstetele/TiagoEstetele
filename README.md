@@ -1,7 +1,7 @@
 ### <div align="center">I'm Tiago Estetele, a web developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on [Polo Trial](https://polotrial.com/)  
+- 🔭 I’m currently working on [Brivia](https://www.brivia.com.br/)  
 
 - 🌐 Featured sites developed by me: [OKN Group](https://okn.com.br/), [Seedz](https://seedz.ag/), [AND,ALL](https://andall.ag/), [Doc Security](https://dsec.com.br/)
 
