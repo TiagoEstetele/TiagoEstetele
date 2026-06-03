@@ -1,87 +1,110 @@
-### <div align="center">I'm Tiago Estetele, a web developer 👨‍💻 working remotely since 2022🚀</div>  
-  
+# Hi 👋, I'm Tiago Estetele
 
-- 🔭 I’m currently working on [Brivia](https://www.brivia.com.br/)  
+### Front-end Developer | React • Next.js • TypeScript
 
-- 🌐 Featured sites developed by me: [OKN Group](https://okn.com.br/), [Seedz](https://seedz.ag/), [AND,ALL](https://andall.ag/), [Doc Security](https://dsec.com.br/)
+I'm a Brazilian Front-end Developer with professional experience building scalable web applications, institutional websites, and digital platforms.
 
-- 🌱 I’m currently learning Next.js and Node.js  
-  
+💼 Working remotely since 2022
 
-- ❓ Ask me about anything related to Front-end and related technologies  
-  
+🎓 Degree in Systems Analysis and Development
 
-- ⚡ Fun fact: I have a degree in Systems Analysis and development
+🚀 Passionate about modern web technologies, performance optimization, SEO, software architecture, and Artificial Intelligence.
 
+---
 
-  
+## 🚀 About Me
 
-<br/>  
+* 🔭 Currently working at **Brivia**
+* 🌱 Currently studying **Back-end Development**, **Node.js**, **Express**, **SOLID**, **Clean Architecture**, and **Software Design Patterns**
+* 🤖 Exploring **Artificial Intelligence**, including **LLMs**, **MCPs (Model Context Protocol)**, AI-powered workflows, and productivity tools
+* 🏗️ Focused on building scalable, maintainable, and well-architected software
+* 💻 Specialized in **React**, **Next.js**, **TypeScript**, **Strapi**, and **WordPress**
+* ⚡ Strong focus on **Performance**, **SEO**, and **User Experience**
+* 🎯 Goal: Become a Full Stack Developer with expertise in modern AI-assisted development
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-</td></tr></table>  
+## 🌐 Featured Projects
 
-<br/>  
+### OKN Group
 
+Corporate website focused on digital presence and institutional communication.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/TiagoEstetele" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/tiago-estetele-a37752228" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+🔗 https://okn.com.br
 
-<br/>  
+### Seedz
 
+Agribusiness platform focused on customer engagement and loyalty programs.
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+🔗 https://seedz.ag
 
-<img src="https://github-readme-stats.vercel.app/api?username=TiagoEstetele&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+### AND,ALL
 
-</td><td valign="top" width="50%">
+Creative agency website with modern design and interactive user experience.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoEstetele&hide_border=true&layout=compact" align="left" style="width: 100%" />
+🔗 https://andall.ag
 
-</td></tr></table>  
+### Doc Security
 
-</div><br/>
+Corporate website focused on information security solutions.
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+🔗 https://dsec.com.br
 
-<br/> 
-  
-<br/>  
+---
+
+## 🛠️ Tech Stack
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,styledcomponents" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### CMS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" height="48" alt="WordPress" />
+  <img src="https://cdn.simpleicons.org/strapi" height="48" alt="Strapi" />
+</p>
+
+**Also experienced with:** Adobe Experience Manager (AEM)
 
 
 
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,webpack" />
+</p>
+
+## 🤖 AI & Modern Development
+
+- AI-assisted software development
+- Large Language Models (LLMs)
+- Model Context Protocol (MCP)
+- Prompt Engineering
+- Agent Workflows
+- Cursor
+- Claude
+- ChatGPT
+- GitHub Copilot
+
+## 📫 Contact
+
+📧 **[estetele.dev@outlook.com](mailto:estetele.dev@outlook.com)**
+
+---
+
+### 🚀 Always learning, building, and improving.
