@@ -50,6 +50,12 @@ Corporate website focused on information security solutions.
 
 🔗 https://dsec.com.br
 
+### Blog Professor Ferreto
+
+Website blog with articles and questions for students.
+
+🔗 https://blog.professorferretto.com.br/
+
 ---
 
 ## 🛠️ Tech Stack
